@@ -1,0 +1,32 @@
+[
+        {
+		"name": "Slave Mine",
+                "replaces": "Picking Up Stones",
+		"uniqueTo": "Nerva Slave Mining Camp",
+                "uniques": ["Provides [1] [Fiber]"],
+		"gold": 2,
+		"hurryCostModifier": 20,
+		"requiredTech": "Agriculture"
+	},
+{
+		"name": "Treehouse",
+                "replaces": "Rockwell Stories",
+		"uniqueTo": "The Redwoods",
+                "greatPersonPoints": {"Great Prophet": 1},
+		"faith": 2,
+                "uniques": ["[+2 Faith] from [Redwoods] tiles [in this city]"],
+		"hurryCostModifier": 20,
+		"requiredTech": "Campfire"
+	},
+{
+		"name": "Volcano Home",
+                "replaces": "Wooden Fort",
+		"uniqueTo": "The Sky Domains",
+                "cityStrength": 6,
+		"cityHealth": 135,
+		"gold": 1,
+                "faith": 3,
+		"hurryCostModifier": 50,
+		"requiredTech": "Wooden Houses"
+	},
+        ]

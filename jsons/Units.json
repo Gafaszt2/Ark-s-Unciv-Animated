@@ -1,0 +1,46 @@
+[
+        {
+		"name": "Gladiatrix Yutyrannus",
+                "replaces": "Yuty Rider",
+		"uniqueTo": "Nerva Slave Mining Camp",
+                "upgradesTo": "Giga Rider",
+		"unitType": "Theropoda",
+		"movement": 2,
+		"strength": 120,
+		"cost": 300,
+		"requiredTech": "Chain Bola",
+                "requiredResource": "Yutyrannus",
+                "obsoleteTech": "Tek Riffle",
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles","Can move after attacking"],
+		"hurryCostModifier": 20,
+                "promotions": ["Strong Genetics"],
+		"attackSound": "medcarno"
+	},
+        {
+		"name": "Shadow Archer",
+                 "replaces": "Cave Tropper",
+		"uniqueTo": "The Redwoods",
+		"unitType": "Archery",
+		"movement": 1,
+		"strength": 19,
+		"cost": 80,
+		"attackSound": "nonmetalhit"
+                "requiredTech": "Mortar",
+                "uniques": ["Can see over obstacles","Never appears as a Barbarian unit"],
+		"obsoleteTech": "Cementing Paste",
+        },
+        {
+		"name": "Mesopithecus",
+                "uniqueTo": "The Sky Domains",
+		"unitType": "Mammal",
+		"movement": 5,
+		"strength": 9,
+		"cost": 34,
+		"requiredTech": "Slingshot",
+                "upgradesTo": "Kapro Rider",
+                "obsoleteTech": "Professional Domestication",
+		"uniques": ["Can move after attacking"],
+		"hurryCostModifier": 20,
+		"attackSound": "chalico"
+	},
+        ]

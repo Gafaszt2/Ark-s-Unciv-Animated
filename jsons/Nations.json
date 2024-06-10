@@ -1,0 +1,103 @@
+[
+	//Spectator
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+	{
+		//nations
+		"name": "Nerva Slave Mining Camp",
+		"leaderName": "Gladiatrix",
+		"adjective": ["Campers"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "...now comes a crucial moment, to take this civilization to the stars",
+
+		"declaringWar": "This is going to be so funny! i will bear your skin!",
+		"attacked": "How brave you are, to dare to fight me, i hope you understand your actions, little one.",
+		"defeated": "This won´t help you at anything! You will perish! Just as her!.",
+		"introduction": "It is me, the Gladiatryx, in this world the only law is to live to fight!",
+
+		"neutralHello": "I hope you won´t dare to try to face my army after this trade.",
+		"hateHello": "I will turn you into Dinosaur Food if you dont request anything good...",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+                "uniqueName": "Live to Fight",
+                "uniques": ["[+44]% Production when constructing [Theropoda] units [in all cities]",
+		"[-25]% Culture cost of natural border growth [in all cities]"],
+
+		"outerColor": [36, 28, 27],
+		"innerColor": [252, 80, 71],
+		"cities": ["Mining Camp","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		//nations
+		"name": "The Redwoods",
+		"leaderName": "John",
+		"adjective": ["Redwoods"],
+		"startBias": ["Redwoods"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "...now comes a crucial moment, to take this civilization to the stars",
+
+		"declaringWar": "I really didn´t want this to go like this, i really hope you can offer more than what you did...",
+		"attacked": "This is an attack we won´t forget, prepare to face the concequences!",
+		"defeated": "I can´t die like this... Alaise... My daughter...",
+		"introduction": "We are the people of the redwoods, don´t attack us and you won´t get attacked.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "You better change your way of thinking...",
+
+		"tradeRequest": "What you think of this trade?.",
+                "uniqueName": "Spiritual Power",
+                "uniques": ["[+33]% Strength <for [Civilian] units>","[+50]% Yield from every [Redwoods]"],
+
+		"outerColor": [159, 209, 157],
+		"innerColor": [40, 48, 39],
+		"cities": ["Home","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+{
+		//nations
+		"name": "The Sky Domains",
+		"leaderName": "The Prophet",
+		"adjective": ["Skies"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Ascension",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "...now comes a crucial moment, to take this civilization to the stars",
+
+		"declaringWar": "Hahaha!",
+		"attacked": "We won´t forget this!",
+		"defeated": "This can´t be my end, not like this!",
+		"introduction": "Can you feel it? the balance of nature is altered, soon the very few pillars of the earth will align and everything that we know, will be destroyed.",
+
+		"neutralHello": "Hello traveler.",
+		"hateHello": "Ugh. it is you...",
+
+		"tradeRequest": "Let´s negotiate.",
+                "uniqueName": "Skylord",
+                "uniques": ["[+33]% Strength <for [Flying] units>","[+22]% Strength <for [Argentavis Rider] units>","[+50]% Yield from every [Mountain]"],
+
+		"outerColor": [177, 224, 214],
+		"innerColor": [41, 47, 125],
+		"cities": ["Prophecy Land","Arat","Prime",
+			"Federal",
+			"United","Arkistia","Obeliskia","Techtia",
+			"Generations","Dogmatic"],
+        "spyNames": ["Sir Charles"]
+	},
+
+        ]
