@@ -6,7 +6,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Slave Mine
   rotate: false
-  xy: 532, 268
+  xy: 796, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -20,21 +20,28 @@ BuildingIcons/Treehouse
   index: -1
 BuildingIcons/Volcano Home
   rotate: false
-  xy: 640, 268
+  xy: 904, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Alexander
+LeaderIcons/Gladiatrix
   rotate: false
   xy: 4, 220
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Gladiatrix
+LeaderIcons/John
   rotate: false
   xy: 268, 220
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/The Prophet
+  rotate: false
+  xy: 532, 220
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -48,7 +55,7 @@ NationIcons/Nerva Slave Mining Camp
   index: -1
 NationIcons/The Redwoods
   rotate: false
-  xy: 640, 376
+  xy: 904, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -62,56 +69,56 @@ NationIcons/The Sky Domains
   index: -1
 TileSets/AbsoluteUnits/Units/Gladiatrix Yutyrannus
   rotate: false
-  xy: 328, 137
+  xy: 431, 137
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great General-Nerva Slave Mining Camp
   rotate: false
-  xy: 748, 395
+  xy: 220, 23
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mesopithecus
   rotate: false
-  xy: 748, 312
+  xy: 516, 137
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Shadow Archer
   rotate: false
-  xy: 220, 23
+  xy: 328, 131
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gladiatrix Yutyrannus
   rotate: false
-  xy: 532, 232
+  xy: 796, 232
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great General-Nerva Slave Mining Camp
   rotate: false
-  xy: 851, 448
+  xy: 601, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mesopithecus
   rotate: false
-  xy: 413, 184
+  xy: 836, 232
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Shadow Archer
   rotate: false
-  xy: 748, 276
+  xy: 601, 148
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -125,7 +132,7 @@ UnitIcons/Gladiatrix Yutyrannus
   index: -1
 UnitIcons/Mesopithecus
   rotate: false
-  xy: 532, 376
+  xy: 796, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
