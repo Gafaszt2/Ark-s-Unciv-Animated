@@ -10,7 +10,6 @@
 		"cost": 300,
 		"requiredTech": "Chain Bola",
                 "requiredResource": "Yutyrannus",
-                "obsoleteTech": "Tek Riffle",
 		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles","Can move after attacking"],
 		"hurryCostModifier": 20,
                 "promotions": ["Strong Genetics"],

@@ -58,7 +58,7 @@
 
 		"tradeRequest": "What you think of this trade?.",
                 "uniqueName": "Spiritual Power",
-                "uniques": ["[+33]% Strength <for [Civilian] units>","[+50]% Yield from every [Redwoods]"],
+                "uniques": ["[+33]% Strength <for [Sword] units>","[+50]% Yield from every [Redwoods]"],
 
 		"outerColor": [159, 209, 157],
 		"innerColor": [40, 48, 39],
