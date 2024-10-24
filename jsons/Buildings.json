@@ -1,10 +1,10 @@
 [
         {
 		"name": "Slave Mine",
-                "replaces": "Picking Up Stones",
+                "replaces": "Flint Mine",
 		"uniqueTo": "Nerva Slave Mining Camp",
-                "uniques": ["Provides [1] [Fiber]"],
 		"gold": 2,
+                "production": 1,
 		"hurryCostModifier": 20,
 		"requiredTech": "Agriculture"
 	},
